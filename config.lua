@@ -26,7 +26,7 @@ Config.VendingItem = {
         slot = 1,
     },
     [2] = {
-        name = "water_bottle",,-- LEOLIGHT UPDATE
+        name = "water_bottle",,-- LEOLIGHT UPDATEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         price = 4,
         amount = 50,
         info = {},
