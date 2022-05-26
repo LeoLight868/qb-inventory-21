@@ -26,7 +26,7 @@ Config.VendingItem = {
         slot = 1,
     },
     [2] = {
-        name = "water_bottle",
+        name = "water_bottle",,-- LEOLIGHT UPDATE
         price = 4,
         amount = 50,
         info = {},
@@ -51,6 +51,7 @@ Config.CraftingItems = {
     },
     [2] = {
         name = "screwdriverset",
+        ,-- LEOLIGHT UPDATE
         amount = 50,
         info = {},
         costs = {
